@@ -5,3 +5,4 @@ Requirements:
 - Description with dropdown (view details)
 
 ![Alt text](Dropdown.png)
+![Alt text](Dropdown2.png)
